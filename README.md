@@ -1,4 +1,6 @@
-This is a flower pot.
+# What is this?
+
+This is a flower pot. Two pots fit onto one tray. The pots have drainage holes. This can be printed on a 3D printer.
 
 ![Top view](/top.png)
 ![Bottom view](/bottom.png)
