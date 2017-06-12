@@ -1,3 +1,8 @@
+This is a flower pot.
+
+![Top view](/top.png)
+![Bottom view](/bottom.png)
+
 # Print Instructions
 
 To print a complete set, print:
