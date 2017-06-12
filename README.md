@@ -5,6 +5,16 @@ To print a complete set, print:
 * Two pots: `triangle_flower_pot_pot.stl` 
 * One tray: `triangle_flower_pot_tray.stl`
 
+Print settings:
+
+* MakerGear M2
+* 0.2 mm layer height
+* MakerGear PLA
+* 220 C nozel temperature
+* 60 C platform temperature
+* Print pot with supports
+* Honeycomb fill
+
 # OpenSCAD Designs
 
 The components are defined in `triangle_flower_pot.scad`. These are defined parametrically, but make sure to inspect closely after changing parameters.
